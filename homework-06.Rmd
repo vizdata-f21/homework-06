@@ -1,0 +1,26 @@
+---
+title: "Homework 06"
+author: "INSERT YOUR NAME HERE"
+output: github_document
+---
+
+```{r load-packages, message = FALSE}
+library(tidyverse)
+# add any other packages you use here
+```
+
+1.  **Meaning of life - The data.**
+
+
+2.  **Meaning of life - The visualization.**
+
+
+3.  **Meaning of life - The app.**
+
+
+4.  **Meaning of life - The styled app.**
+
+
+5.  **The visual uncertainty experience.**
+
+
